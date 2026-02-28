@@ -1,1 +1,1 @@
-# Arrays concepts
+# Arrays concept
